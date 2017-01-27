@@ -1,0 +1,28 @@
+@font-face{ font-family: Bebas; src: url('fonts/BebasNeue.ttf');}
+
+body {
+  background-color: black;
+}
+
+h1, h2, h3{
+	text-align: center;
+    font-family: Bebas;
+    color: white;
+}
+h1{
+    text-emphasis: bold;
+	font-size: 400%
+}
+h2{
+    font-size: 300%
+}
+h3{
+    font-family: arial;
+    font-size 400%
+}
+p{
+	color: white;
+    font-family: arial;
+    text-align: left;
+    font-size: 150%
+}

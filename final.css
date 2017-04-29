@@ -1,0 +1,38 @@
+@font-face{ font-family: roboto; src: url('fonts/roboto-light')}
+
+body {
+  background-color: #F7931D;
+}
+
+IMG.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+
+div.paper{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    margin: 0 auto;
+    max-width: 1000px;
+    
+    align-items: center;
+    justify-content: center;
+    background-color: whitesmoke}
+
+div.paper p{
+    margin 0; 
+    font-family: roboto;
+    text-align: left}
+
+div.paper br{
+    display: block;
+    margin: 10px 0;
+    line-height: 40px;
+}
+
+div.paper > div.images{
+    text-align: center;
+}

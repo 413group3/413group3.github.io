@@ -32,7 +32,3 @@ div.paper br{
     margin: 10px 0;
     line-height: 40px;
 }
-
-div.paper > div.images{
-    text-align: center;
-}

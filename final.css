@@ -32,3 +32,9 @@ div.paper br{
     margin: 10px 0;
     line-height: 40px;
 }
+
+a {
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+}

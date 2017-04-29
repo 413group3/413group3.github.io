@@ -2,6 +2,7 @@
 
 body {
   background-color: #F7931D;
+font-family: roboto;
 }
 
 IMG.logo {
@@ -24,7 +25,6 @@ div.paper{
 
 div.paper p{
     margin 0; 
-    font-family: roboto;
     text-align: left}
 
 div.paper br{
